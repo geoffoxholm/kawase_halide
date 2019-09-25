@@ -40,36 +40,33 @@ for image downsampling, upsampling, Gaussian filtering or generalized
 Kawase filters (i.e., arbitrary number of passes and distances) are not
 required.
 
-## Closing Remarks
 
-You may browse for sample images [here][3].
+## How to submit
+
+:warning: **IMPORTANT** :warning: Send us a _link_ to your code on Dropbox, Google Drive, or OneDrive --
+***DO NOT*** send a ***.zip*** attachment since it won't get through our email filtering system!
+
+
+## Closing Remarks
 
 If there are any interesting things you'd like to draw our attention to
 in your solution, please say so in a comment or in some documentation.
 Also, if you consult any resources to help you out (online or
 otherwise), please let us know what they were.
 
-If possible please get back to us with the code sample within a week.
-
-> **Important**: Send us a link to your code on Dropbox, Google Drive, or OneDrive --
-***do not*** send an e-mail with a ***.zip*** attachment since it won't
-get through Adobe's email filtering system!
-
 ## Expected Results
+
+You may browse for sample images [here][3]. Below is one example:
 
 Original image (full resolution):
 ![Original][original]
 
-Kawase filter result (applied to down-sampled image, then upscaled back
-to original size):
-
-K = { 0, 1, 2, 2, 3 }
-
+Kawase filter K = { 0, 1, 2, 2, 3 } applied to down-sampled image, then upscaled back
+to original size:
 ![kawase-upscaled][upscaled]
 
 Gaussian filter result (radius of 35 pixels, with tail &sigma; = 3)
 applied to the full resolution image:
-
 ![gauss-r35.jpg][gauss]
 
 ---
