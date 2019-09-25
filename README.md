@@ -4,11 +4,9 @@ The Kawase filter is a blur filter introduced by Masaki Kawase during
 the Game Developers Conference (GDC) in 2003. It has been used in games
 as a fast approximation to effects such as bloom, photographic light
 streaks, depth-of-field, lens flare and ghosting, etc, in a time when
-pixel shaders were very primitive and full of restrictions[<sup>1</sup>](#footnotes).
+pixel shaders were very primitive and full of restrictions<sup>[1](#footnotes)</sup>.
 
-The original presentation is available online at the author's website:
-
-["*Frame Buffer Postprocessing Effects in DOUBLE-S.T.E.A.L (Wreckless)*"][1]
+The original presentation is available online at the author's website: ["*Frame Buffer Postprocessing Effects in DOUBLE-S.T.E.A.L (Wreckless)*"][1]
 
 Kawase filters can achieve smooth and wide image blurs. Conceptually, it
 is a multi-pass filter (i.e., the output of one pass is the input to the
