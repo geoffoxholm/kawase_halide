@@ -1,5 +1,5 @@
 include:
   - README.md
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 description: Kawase filter in Halide coding exercise
 show_downloads: true
