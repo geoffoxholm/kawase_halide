@@ -44,15 +44,13 @@ required.
 ## How to submit
 
 :warning: **IMPORTANT** :warning: Send us a _link_ to your code on Dropbox, Google Drive, or OneDrive --
-***DO NOT*** send a ***.zip*** attachment since it won't get through our email filtering system!
-
+***DO NOT*** send a ***.zip*** attachment since it won't get through our email filtering system! 
+And please do not make your solution publicly visible on (for example) github.
 
 ## Closing Remarks
 
-If there are any interesting things you'd like to draw our attention to
-in your solution, please say so in a comment or in some documentation.
-Also, if you consult any resources to help you out (online or
-otherwise), please let us know what they were.
+If there are any interesting things you'd like to draw our attention to in your solution, please say so in a comment or in some documentation.
+Also, if you consult any resources to help you out (online or otherwise), please let us know what they were.
 
 ## Expected Results
 
