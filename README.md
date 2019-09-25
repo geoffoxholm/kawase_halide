@@ -51,7 +51,7 @@ otherwise), please let us know what they were.
 
 If possible please get back to us with the code sample within a week.
 
-Send us a link to your code on Dropbox, Google Drive, or OneDrive --
+> **Important**: Send us a link to your code on Dropbox, Google Drive, or OneDrive --
 ***do not*** send an e-mail with a ***.zip*** attachment since it won't
 get through Adobe's email filtering system!
 
