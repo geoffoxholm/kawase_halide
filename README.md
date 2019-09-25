@@ -1,5 +1,3 @@
-# Coding Exercise: Kawase Filter in Halide
-
 ## Introduction
 
 The Kawase filter is a blur filter introduced by Masaki Kawase during
