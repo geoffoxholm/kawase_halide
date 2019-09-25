@@ -43,7 +43,7 @@ required.
 
 ## How to submit
 
-:warning: **IMPORTANT** :warning: Send us a _link_ to your code on Dropbox, Google Drive, or OneDrive --
+**IMPORTANT** Send us a _link_ to your code on Dropbox, Google Drive, or OneDrive --
 ***DO NOT*** send a ***.zip*** attachment since it won't get through our email filtering system! 
 And please do not make your solution publicly visible on (for example) github.
 
