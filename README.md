@@ -35,10 +35,14 @@ Your task is to verify such claim by implementing the Kawase filter K =
 { 0, 1, 2, 2, 3 } in Halide and comparing the resulting blur to the
 aforementioned Gaussian blur. You are free to implement both the
 algorithm and scheduler portions in any way you see appropriate,
-including how to handle out-of-bounds sampling. Halide implementations
-for image downsampling, upsampling, Gaussian filtering or generalized
-Kawase filters (i.e., arbitrary number of passes and distances) are not
-required.
+including how to handle out-of-bounds sampling. However, _please refrain
+from using the auto-scheduler_; if you absolutely must use it, make sure
+to analyze the produced schedule (statement file) in detail and elaborate
+on the performance impact of the decisions made by the auto-scheduler.
+
+Halide implementations for image downsampling, upsampling, Gaussian
+filtering or generalized Kawase filters (i.e., arbitrary number of
+passes and distances) are not required.
 
 
 ## How to submit
